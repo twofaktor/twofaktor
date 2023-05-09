@@ -1,4 +1,4 @@
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/twofaktor)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/twofaktor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twofaktor) 
 ### Bitcoin and Nostr contributor
 
 * PGP: [18E2 2041 6921 9505](https://github.com/twofaktor.gpg)
