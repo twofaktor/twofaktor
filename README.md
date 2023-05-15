@@ -5,5 +5,6 @@
 * Nostr: [npub1k9luehc8hg3c0upckdzzvusv66x3zt0eyw7290kclrpsndepz92sfcpp63](https://snort.social/p/npub1k9luehc8hg3c0upckdzzvusv66x3zt0eyw7290kclrpsndepz92sfcpp63)
 * Twitter: [@twofaktor](https://twitter.com/twofaktor)
 * Member of Bitcoin Barcelona: [Web](https://bitcoinbarcelona.xyz) - [GitHub](https://github.com/BcnBitcoinOnly)
+* BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
 * LN address: [twofaktor@ln.tips](https://ln.tips/@twofaktor)
 * Paynym: [+muddyrice3F0](https://paynym.is/+muddyrice3F0)
