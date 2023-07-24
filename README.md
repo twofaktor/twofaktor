@@ -1,4 +1,4 @@
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/twofaktor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twofaktor) ![GitHub followers](https://img.shields.io/github/followers/twofaktor)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/twofaktor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/twofaktor) ![GitHub followers](https://img.shields.io/github/followers/twofaktor) ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
 
 * [Bitcoin](https://github.com/bitcoin/bitcoin) adopter block height 675342
 * [MiniBolt](https://github.com/minibolt-guide) creator
