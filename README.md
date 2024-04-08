@@ -8,7 +8,7 @@
 * [RaspiBolt](https://github.com/raspibolt) outside collaborator since 12/11/2022
 * [Tor](https://www.torproject.org/) network collaborator
 * [NYM](https://github.com/nymtech/nym) early adopter
-* Nostr: [npub1k9luehc8hg3c0upckdzzvusv66x3zt0eyw7290kclrpsndepz92sfcpp63](https://nostree.me/twofaktor)
+* [Nostr](https://nostr.com/) network collaborator: [npub1k9luehc8hg3c0upckdzzvusv66x3zt0eyw7290kclrpsndepz92sfcpp63](https://nostree.me/twofaktor)
 * Twitter: [@twofaktor](https://twitter.com/twofaktor)
 * BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
 * PGP: [18E2 2041 6921 9505](https://github.com/twofaktor.gpg)
