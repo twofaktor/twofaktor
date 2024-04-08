@@ -20,3 +20,7 @@
 ![2FakTor's github stats](https://github-readme-stats.vercel.app/api?username=twofaktor&show_icons=true&theme=react&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </div>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twofaktor&theme=react" alt="twofaktor" />
+</p>
