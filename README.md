@@ -13,7 +13,6 @@
 * BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
 * PGP: [18E2 2041 6921 9505](https://github.com/twofaktor.gpg)
 * LN address: [twofaktor@ln.tips](https://ln.tips/@twofaktor)
-* Paynym: [+muddyrice3F0](https://paynym.is/+muddyrice3F0)
 
 
 <div float="right">
