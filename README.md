@@ -3,13 +3,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/twofaktor) 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
 
-* [Bitcoin](https://github.com/bitcoin/bitcoin) adopter block height [675342](https://mempool.space/block/000000000000000000061afe0e46d4fdc818280dd4dd69d013b1cfc2cd551872)
+* [Bitcoin](https://github.com/bitcoin/bitcoin) adopter. Est. [675342](https://mempool.space/block/000000000000000000061afe0e46d4fdc818280dd4dd69d013b1cfc2cd551872)
+* [Lightning Network](https://github.com/lightningnetwork/lnd) adopter. Est. [691176](https://mempool.space/es/block/00000000000000000005e51f9d1fbcb6a1c057425fdc08bcee56a4ba6913f058)
 * [MiniBolt](https://github.com/minibolt-guide) creator
 * [RaspiBolt](https://github.com/raspibolt) outside collaborator since 12/11/2022
 * [Tor](https://www.torproject.org/) network collaborator
 * [NYM](https://github.com/nymtech/nym) early adopter
 * [Nostr](https://nostr.com/) network collaborator: [Nostree](https://nostree.me/twofaktor)
-* Twitter: [@twofaktor](https://twitter.com/twofaktor)
 * BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
 * PGP: [18E2 2041 6921 9505](https://github.com/twofaktor.gpg)
 * LN address: [twofaktor@btcpay.minibolt.info](lightning:twofaktor@btcpay.minibolt.info)
