@@ -8,10 +8,10 @@
 * [MiniBolt](https://github.com/minibolt-guide) creator
 * [RaspiBolt](https://github.com/raspibolt) outside collaborator since 12/11/2022
 * [Tor](https://www.torproject.org/) network collaborator
-* [NYM](https://github.com/nymtech/nym) early adopter
+* [NYM](https://github.com/nymtech) early adopter
 * [Nostr](https://nostr.com/) network collaborator: [Nostree](https://nostree.me/twofaktor)
 * BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
-* PGP: [18E2 2041 6921 9505](https://github.com/twofaktor.gpg)
+* GPG: [18E2 2041 6921 9505](https://github.com/twofaktor.gpg)
 * LN address: [twofaktor@btcpay.minibolt.info](lightning:twofaktor@btcpay.minibolt.info)
 
 <div float="right">
@@ -21,5 +21,5 @@
 </div>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twofaktor&theme=react" alt="twofaktor" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twofaktor&theme=react" alt="twofaktor" />
 </p>
