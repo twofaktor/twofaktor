@@ -5,7 +5,7 @@
 
 * [Bitcoin](https://github.com/bitcoin/bitcoin) adopter. Est. [675342](https://mempool.space/block/000000000000000000061afe0e46d4fdc818280dd4dd69d013b1cfc2cd551872)
 * [Lightning Network](https://github.com/lightningnetwork/lnd) adopter. Est. [691176](https://mempool.space/es/block/00000000000000000005e51f9d1fbcb6a1c057425fdc08bcee56a4ba6913f058)
-* [MiniBolt](https://github.com/minibolt-guide) / [RaMiX](https://github.com/minibolt-guide/ramix-node) creator
+* [MiniBolt](https://github.com/minibolt-guide) & [RaMiX](https://github.com/minibolt-guide/ramix-node) creator
 * [RaspiBolt](https://github.com/raspibolt) outside collaborator since 12/11/2022 to 09/10/2024
 * [Tor](https://www.torproject.org/) network collaborator
 * [NYM](https://github.com/nymtech) early adopter
