@@ -7,7 +7,6 @@
 * [MiniBolt](https://github.com/minibolt-guide) & [RaMiX](https://github.com/minibolt-guide/ramix-node) creator
 * [RaspiBolt](https://github.com/raspibolt) outside collaborator since 12/11/2022 to 09/10/2024
 * [Tor](https://www.torproject.org/) network collaborator
-* [NYM](https://github.com/nymtech) early adopter
 * [Nostr](https://nostr.com/) network collaborator: [Nostree](https://nostree.me/twofaktor)
 * BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
 * GPG: [18E2 2041 6921 9505](https://github.com/twofaktor.gpg)
