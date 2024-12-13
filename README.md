@@ -10,7 +10,7 @@
 * [Nostr](https://nostr.com/) network collaborator: [Nostree](https://nostree.me/twofaktor)
 * BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
 * GPG: [18E2 2041 6921 9505](https://github.com/twofaktor.gpg)
-* Donate: [Clearnet🚾](https://donate.minibolt.info) | [Onion🧅](http://3iqm7nidexns5p6wmgc23ibgiscm6rge7hwyeziviwgav4fl7xui4mqd.onion/apps/3STWFFyYaPRNNcTSJz2VHnA7jLNr/pos)
+* Donate: [Clearnet🚾](https://donate.minibolt.info) | [Onion (Tor)🧅](http://3iqm7nidexns5p6wmgc23ibgiscm6rge7hwyeziviwgav4fl7xui4mqd.onion/apps/3STWFFyYaPRNNcTSJz2VHnA7jLNr/pos)
 
 <div float="right">
   
