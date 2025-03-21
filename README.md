@@ -1,4 +1,3 @@
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/twofaktor)
 ![GitHub followers](https://img.shields.io/github/followers/twofaktor) 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
 
