@@ -8,7 +8,7 @@
 * [Tor](https://www.torproject.org/) network collaborator
 * [Nostr](https://nostr.com/) network collaborator: [Nostree](https://nostree.me/twofaktor)
 * BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
-* GPG: [18E2 2041 6921 9505](https://github.com/twofaktor.gpg)
+* GPG: [18E2 2041 6921 9505](https://keyserver.minibolt.info/pks/lookup?search=26C199FC0CB4D5A5D3AE67D118E2204169219505&fingerprint=on&op=index)
 * Donate: [Clearnet🚾](https://donate.minibolt.info) | [Onion (Tor)🧅](http://3iqm7nidexns5p6wmgc23ibgiscm6rge7hwyeziviwgav4fl7xui4mqd.onion/apps/3STWFFyYaPRNNcTSJz2VHnA7jLNr/pos)
 
 <div float="right">
