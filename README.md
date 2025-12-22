@@ -12,5 +12,7 @@
 * Donate: [Clearnet🚾](https://donate.minibolt.info) | [Onion (Tor)🧅](http://3iqm7nidexns5p6wmgc23ibgiscm6rge7hwyeziviwgav4fl7xui4mqd.onion/apps/3STWFFyYaPRNNcTSJz2VHnA7jLNr/pos)
 
 <div float="right">
+  
 ![2FakTor's github stats](https://github-readme-stats.vercel.app/api?username=twofaktor&show_icons=true&theme=react&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 </div>
