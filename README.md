@@ -7,6 +7,7 @@
 * [RaspiBolt](https://github.com/raspibolt) outside collaborator since 12/11/2022 to 09/10/2024
 * [Tor](https://www.torproject.org/) network collaborator
 * [Nostr](https://nostr.com/) network collaborator: [Nostree](https://nostree.me/twofaktor)
+* [Meshtastic](https://github.com/meshtastic) adopter & network collaborator
 * BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
 * GPG: [18E2 2041 6921 9505](https://keyserver.minibolt.info/pks/lookup?op=get&search=0x26c199fc0cb4d5a5d3ae67d118e2204169219505)
 * Donate: [Clearnet🚾](https://donate.minibolt.info) | [Onion (Tor)🧅](http://3iqm7nidexns5p6wmgc23ibgiscm6rge7hwyeziviwgav4fl7xui4mqd.onion/apps/3STWFFyYaPRNNcTSJz2VHnA7jLNr/pos)
