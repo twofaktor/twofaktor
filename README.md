@@ -13,6 +13,6 @@
 
 <div float="right">
   
-![2FakTor's github stats](https://github-readme-stats.vercel.app/api?username=twofaktor&show_icons=true&theme=react&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![2FakTor's github stats](https://github-stats-extended.vercel.app/api?username=twofaktor&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=algolia)
 
 </div>
