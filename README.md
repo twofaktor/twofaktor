@@ -11,8 +11,8 @@
 * [Lightning Network](https://github.com/lightningnetwork/lnd) adopter. Est. [691176](https://mempool.space/es/block/00000000000000000005e51f9d1fbcb6a1c057425fdc08bcee56a4ba6913f058)
 * [MiniBolt](https://github.com/minibolt-guide) & [RaMiX](https://github.com/minibolt-guide/ramix-node) creator
 * [RaspiBolt](https://github.com/raspibolt) outside collaborator since 12/11/2022 to 09/10/2024
-* [Tor](https://www.torproject.org/) network collaborator
-* [Nostr](https://nostr.com/) network collaborator: [Nostree](https://nostree.me/twofaktor)
+* [Tor](https://www.torproject.org) network collaborator
+* [Nostr](https://nostr.com) network collaborator
 * [Meshtastic](https://github.com/meshtastic) adopter & network collaborator
 * BTCmap Supertagger: [Profile](https://btcmap.org/tagger/17175269)
 * GPG: [18E2 2041 6921 9505](https://keyserver.minibolt.info/pks/lookup?op=get&search=0x26c199fc0cb4d5a5d3ae67d118e2204169219505)
