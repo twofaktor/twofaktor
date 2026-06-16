@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/twofaktor) 
+![GitHub followers](https://img.shields.io/github/followers/twofaktor?style=for-the-badge) 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
 
 ---
